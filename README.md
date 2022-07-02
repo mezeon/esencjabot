@@ -1,2 +1,2 @@
 # esencjabot
-Polski bot discordowy do absolutnie wszystkiego
+Autorski bot przeznaczony specjalnie do serwera Ciepełko
