@@ -1,0 +1,26 @@
+{
+  "name": "esencjabot",
+  "version": "0.1.0",
+  "description": "Polski bot discordowy do absolutnie wszystkiego",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mezeon/esencjabot.git"
+  },
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "author": "Mezeon <mezeon@int.pl> (Kuba)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mezeon/esencjabot/issues"
+  },
+  "homepage": "https://github.com/mezeon/esencjabot#readme",
+  "dependencies": {
+    "discord.js": "^13.8.1"
+  }
+}
